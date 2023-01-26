@@ -1,0 +1,23 @@
+body {
+    background-color: lightgray;
+}
+
+.row div {
+    background-color: #aa8080;
+    min-height: 15vh;
+    text-align: center;
+    border: 1vh solid white;
+}
+
+.container {
+    background-color: white;
+}
+
+p {
+    padding: 1.5vh;
+}
+
+.container-fluid a {
+    color: white;
+    padding-left: 7vh;
+}
